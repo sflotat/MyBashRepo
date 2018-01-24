@@ -1,2 +1,2 @@
-# MyBashRepos
+# MyBashRepo
 Repository of bash scripts
